@@ -1,0 +1,15 @@
+.nav-item:hover
+{
+    transform: scale(1.1);    
+}
+
+.p-4
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p-3:hover
+{
+    transform: scale(1.05);
+    transition: 30ms;
+}
